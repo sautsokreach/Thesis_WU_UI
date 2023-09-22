@@ -26,6 +26,7 @@ function App() {
   return (
     <div className="App">
       <div>sokreach</div>
+      <div>phirun</div>
       <Switch>
         <Route path="/sign-up" exact component={SignUp} />
         <Route path="/sign-in" exact component={SignIn} />
